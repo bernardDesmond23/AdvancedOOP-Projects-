@@ -25,6 +25,6 @@ Distributed Computing: Java RMI (Remote Method Invocation), Stubs & Skeletons, C
 
 Database: JDBC, SQL (Database connectivity and operations).
 
-GUI: Java Swing (Event handling, layouts, desktop UI design).
+GUI: Java FX (Event handling, layouts, desktop UI design).
 
 OOP Principles: Interfaces, Inheritance, Polymorphism, Encapsulation, Exception Handling.
