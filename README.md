@@ -8,7 +8,7 @@ RMI Layer: Implements a remote interface (DatabaseInterface), the server impleme
 
 Data Layer: Handles JDBC connections and CRUD operations (DBConnection, DBOperations).
 
-Navigate to see the project files 
+Navigate [Project Files](https://github.com/bernardDesmond23/AdvancedOOP-Projects-/tree/main/Database%20prac/src) to see the project folders
 
 ## 2. DistributedSystems (RMI & GUI)
 A collection of distributed system exercises focusing on Remote Method Invocation.
@@ -17,7 +17,7 @@ PETS: A client-side GUI (PetsClientGUI) that interacts with a remote service (fo
 
 RMI Core: Contains the base DatabaseInterface used for remote communication.
 
-Navigate to see the project files 
+Navigate [Project Files](https://github.com/bernardDesmond23/AdvancedOOP-Projects-/tree/main/DistributedSystems/src) to see the project folders
 ## Technologies & Concepts Demonstrated
 Language: Java (JDK 8+)
 
